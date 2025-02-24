@@ -124,7 +124,7 @@ const Contact = () => {
             </Text>
             <Link href='mailto:elmonickol@gmail.com'>
               <Text mt={5}>
-                {getFontAwesomeIcon(faEnvelope)} elmonickol@gmail.com
+                {getFontAwesomeIcon(faEnvelope)} crystal.best.2002@gmail.com
               </Text>
             </Link>
             <Link href="https://goo.gl/maps/XAoQcfPffVfVD83c8">
